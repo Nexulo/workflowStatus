@@ -74,7 +74,7 @@ params:
     - name: Empty Category
     - name: Uncategorized
       untitled: true
-  description: We continuously monitor the status of our services and if there are
-    any interruptions, a note will be posted here.
+  description: Wir überwachen ständig den Status unserer Dienste. Falls es zu
+    Unterbrechungen kommt, werden wir über diese Seite darüber informieren.
   enableCustomHTML: true
   useLargeHeaderDesign: false
