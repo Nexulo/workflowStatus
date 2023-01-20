@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: false
 pin: true
-resolvedWhen: ""
+resolvedWhen: 2023-01-20T07:43:26.018Z
 affected:
   - Webseite
   - E-Mailversand
