@@ -46,6 +46,10 @@ params:
     - name: Live Benachrichtigungen
       category: Plattform
       description: Status über die Live-Benachrichtigungen in der Webanwendung
+    - name: Dateiverwaltung
+      category: Plattform
+      description: Status über die Dateiverwaltung (Erreichbarkeit sowie Upload und
+        Generierung von neuen Dateien über die Webanwendung).
   dateFormat: Mon, 02 Jan 2006 15:04:05 MST
   brand: "#0a0c0f"
   enableLastMod: true
