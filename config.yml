@@ -39,17 +39,17 @@ params:
   systems:
     - name: Webseite
       category: Plattform
-      description: Allgemeine Erreichbarkeit der Webanwendung.
+      description: Allgemeine Erreichbarkeit der Webanwendung
     - name: E-Mailversand
       category: Plattform
-      description: Status über den VersandA von E-Mails über die Webanwendung
+      description: Versand von E-Mails über die Webanwendung
     - name: Live Benachrichtigungen
       category: Plattform
-      description: Status über die Live-Benachrichtigungen in der Webanwendung
+      description: Live-Benachrichtigungen in der Webanwendung
     - name: Dateiverwaltung
       category: Plattform
-      description: Status über die Dateiverwaltung (Erreichbarkeit sowie Upload und
-        Generierung von neuen Dateien über die Webanwendung).
+      description: Dateiverwaltung (Erreichbarkeit sowie Upload und Generierung von
+        neuen Dateien über die Webanwendung)
   dateFormat: Mon, 02 Jan 2006 15:04:05 MST
   brand: "#0a0c0f"
   enableLastMod: true
