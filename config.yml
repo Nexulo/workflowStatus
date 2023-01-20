@@ -38,8 +38,8 @@ params:
   down: "#e60000"
   systems:
     - name: Webseite
-      category: Status
-      description: Status der Webseite
+      category: "@work"
+      description: Erreichbarkeit der Webanwendung.
   dateFormat: Mon, 02 Jan 2006 15:04:05 MST
   brand: "#0a0c0f"
   enableLastMod: true
@@ -56,8 +56,8 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Status
-      description: Aktueller Status
+    - name: "@work"
+      description: ""
   description: Wir überwachen ständig den Status unserer Dienste. Falls es zu
     Unterbrechungen kommt, werden wir über diese Seite darüber informieren.
   enableCustomHTML: true
