@@ -43,7 +43,7 @@ params:
     - name: E-Mailversand
       category: Plattform
       description: Versand von E-Mails über die Webanwendung
-    - name: Live Benachrichtigungen
+    - name: Live-Benachrichtigungen
       category: Plattform
       description: Live-Benachrichtigungen in der Webanwendung
     - name: Dateiverwaltung
