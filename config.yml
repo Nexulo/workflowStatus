@@ -52,7 +52,7 @@ params:
       description: This is the service responsible for serving images, audio, and
         video. It is reliant on our CDN.
       category: Uncategorized
-  dateFormat: '{{ time.Format "Jan. 2, 2006" .Date }}'
+  dateFormat: time.Format "Jan. 2, 2006" .Date
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
