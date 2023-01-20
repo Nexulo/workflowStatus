@@ -34,7 +34,7 @@ params:
   skipSeconds: false
   useRelativeTime: true
   disableDarkMode: false
-  shortDateFormat: 15:04 UTC — Jan 2
+  shortDateFormat: Jan 2 — 15:04 UTC
   down: "#e60000"
   systems:
     - name: Gateway
