@@ -2,7 +2,7 @@
 section: issue
 title: TEST - Ausfall von E-Mailversand
 date: 2023-01-20T07:32:11.118Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
