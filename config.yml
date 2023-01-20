@@ -56,12 +56,8 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
-    - name: Uncategorized
-      untitled: true
+    - name: Status
+      description: Aktueller Status
   description: Wir überwachen ständig den Status unserer Dienste. Falls es zu
     Unterbrechungen kommt, werden wir über diese Seite darüber informieren.
   enableCustomHTML: true
