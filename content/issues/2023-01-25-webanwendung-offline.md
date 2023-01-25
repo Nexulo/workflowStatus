@@ -14,6 +14,6 @@ affected:
   - Live-Benachrichtigungen
 severity: down
 ---
-*Problembehebung aktiv* -  Workflow ist aktuell offline, wir untersuchen das Problem und setzen alles daran, dass die Webanwendung schnellstmöglich wieder online ist.
+*Problembehebung aktiv* -  Workflow ist aktuell offline. Wir untersuchen das Problem und setzen alles daran, dass die Webanwendung schnellstmöglich wieder online ist.
 
 Für die Unannehmlichkeiten bitten wir um Entschuldigung.
