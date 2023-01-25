@@ -1,6 +1,6 @@
 ---
 section: issue
-title: "[behoben] Webanwendung offline"
+title: "[Behoben] Webanwendung offline"
 date: 2023-01-25T07:47:18.510Z
 resolved: true
 draft: false
