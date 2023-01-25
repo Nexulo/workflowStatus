@@ -3,7 +3,7 @@ section: issue
 title: Angekündigte Wartungsarbeiten
 date: 2023-01-25T04:55:00.000Z
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2023-01-25T05:25:00.000Z
 affected:
   - Webseite
