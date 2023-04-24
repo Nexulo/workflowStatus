@@ -1,11 +1,11 @@
 ---
 section: issue
 title: Angekündigte Wartungsarbeiten
-date: 2023-01-25T04:55:00.000Z
+date: 2023-04-26T03:55:00.000Z
 resolved: true
 informational: true
-pin: false
-resolvedWhen: 2023-01-25T05:25:00.000Z
+pin: true
+resolvedWhen: 2023-04-26T04:25:00.000Z
 affected:
   - Webseite
   - E-Mailversand
@@ -13,4 +13,4 @@ affected:
   - Live-Benachrichtigungen
 severity: notice
 ---
-Aufgrund von Wartungsarbeiten wird unsere Webanwendung am **Mittwoch 25. Januar 2023 von 05:55 Uhr bis 06:25 Uhr** nicht zur Verfügung stehen.
+Aufgrund von Wartungsarbeiten wird unsere Webanwendung am **Mittwoch 26. April 2023 von 05:55 Uhr bis 06:25 Uhr** nicht zur Verfügung stehen.
