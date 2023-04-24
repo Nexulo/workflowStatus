@@ -3,7 +3,7 @@ section: issue
 title: "[Behoben] Webanwendung offline"
 date: 2023-01-25T07:47:18.510Z
 resolved: true
-draft: false
+draft: true
 informational: false
 pin: false
 resolvedWhen: 2023-01-25T07:54:54.331Z
