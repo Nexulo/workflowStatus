@@ -3,6 +3,7 @@ section: issue
 title: Angekündigte Wartungsarbeiten
 date: 2023-04-26T03:55:00.000Z
 resolved: true
+draft: true
 informational: true
 pin: true
 resolvedWhen: 2023-04-26T04:25:00.000Z
