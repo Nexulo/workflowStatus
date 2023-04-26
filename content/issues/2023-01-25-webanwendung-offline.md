@@ -1,19 +1,16 @@
 ---
 section: issue
-title: "[Behoben] Webanwendung offline"
-date: 2023-01-25T07:47:18.510Z
-resolved: true
-draft: true
+title: Dateiverwaltung offline
+date: 2023-04-26T04:25:00.000Z
+resolved: false
+draft: false
 informational: false
-pin: false
-resolvedWhen: 2023-01-25T07:54:54.331Z
+pin: true
+resolvedWhen: ""
 affected:
-  - Webseite
-  - E-Mailversand
   - Dateiverwaltung
-  - Live-Benachrichtigungen
 severity: down
 ---
-*Problembehebung aktiv* -  Workflow ist aktuell offline. Wir untersuchen das Problem und setzen alles daran, dass die Webanwendung schnellstmöglich wieder online ist.
+*Problembehebung aktiv* -  Die Dateiverwaltung und das generieren von neuen Dateien funktioniert aktuell nicht. Wir untersuchen das Problem und setzen alles daran, dass die Webanwendung schnellstmöglich wieder online ist.
 
 Für die Unannehmlichkeiten bitten wir um Entschuldigung.
