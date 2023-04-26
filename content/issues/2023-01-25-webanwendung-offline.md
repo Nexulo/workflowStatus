@@ -11,6 +11,6 @@ affected:
   - Dateiverwaltung
 severity: down
 ---
-*Problembehebung aktiv* -  Die Dateiverwaltung und das generieren von neuen Dateien funktioniert aktuell nicht. Wir untersuchen das Problem und setzen alles daran, dass die Webanwendung schnellstmöglich wieder online ist.
+*Problembehebung aktiv* -  Die Dateiverwaltung und das Generieren von neuen Dateien funktioniert aktuell nicht. Wir untersuchen das Problem und setzen alles daran, dass die Webanwendung schnellstmöglich wieder online ist.
 
 Für die Unannehmlichkeiten bitten wir um Entschuldigung.
