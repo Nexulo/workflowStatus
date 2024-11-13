@@ -2,11 +2,11 @@
 section: issue
 title: Dienste teilweise nicht verfügbar
 date: 2024-11-13T06:10:22.538Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
-resolvedWhen: 2024-11-13T07:12:00.000Z
+resolvedWhen: 2024-11-13T19:12:00.000Z
 affected:
   - Webseite
   - E-Mailversand
