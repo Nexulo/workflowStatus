@@ -2,7 +2,7 @@
 section: issue
 title: Dienste teilweise nicht verfügbar
 date: 2024-11-13T06:10:22.538Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
