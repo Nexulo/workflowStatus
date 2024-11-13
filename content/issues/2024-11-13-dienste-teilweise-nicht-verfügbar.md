@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: false
 pin: true
-resolvedWhen: ""
+resolvedWhen: 2024-11-13T19:12:00.000Z
 affected:
   - Plattform
   - E-Mailversand
