@@ -5,7 +5,7 @@ date: 2024-11-13T06:10:22.538Z
 resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2024-11-13T07:12:00.000Z
 affected:
   - Webseite
