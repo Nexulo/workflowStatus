@@ -3,7 +3,7 @@ section: issue
 title: VORLAGE - Ausfall von E-Mailversand
 date: 2023-01-20T07:32:11.118Z
 resolved: true
-draft: false
+draft: true
 informational: false
 pin: true
 resolvedWhen: 2023-01-20T07:43:26.018Z
